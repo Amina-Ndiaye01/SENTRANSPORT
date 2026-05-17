@@ -9,6 +9,7 @@ function Recherche({ valeur, onChange }) {
         placeholder="Rechercher une ligne (depart, arrivee)..."
         value={valeur}
         onChange={e => onChange(e.target.value)}
+        autoComplete="off"
       />
     </div>
   );
