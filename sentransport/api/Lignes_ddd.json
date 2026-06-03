@@ -44,5 +44,12 @@
 "arrets": 11,
 "listeArrets": ["Yoff Village", "Aeroport LSS",
 "Parcelles U17", "Grand Yoff", "HLM", "Sandaga"]
+},
+{
+"id": 7, "numero": "233",
+"depart": "Beaux-Maraicher", "arrivee": "Palais 2",
+"arrets": 10,
+"listeArrets": ["Mariste", "EMG" ,"Castor",
+"HLM","Colobane" , "Canal-4", "Claudel", "Sandaga" , "Medina" , "Palais 2"] 
 }
 ]
